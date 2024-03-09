@@ -1,4 +1,4 @@
-<h2 align="left">Hi, There 👋! My name is Shivam Shrivastava and I'm a Backend Developer.</h2>
+<h2 align="left">Hi, There 👋! My name is Shivam Shrivastava and I'm a FullStack Developer.</h2>
 <h3>🚀 Currently Learning: Socket Programming.</h3>
 
 ###

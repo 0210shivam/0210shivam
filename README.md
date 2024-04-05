@@ -1,5 +1,5 @@
 <h2 align="left">Hi, There 👋! My name is Shivam Shrivastava and I'm a FullStack Developer.</h2>
-<h3>🚀 Currently Learning: Socket Programming.</h3>
+<h3>🚀 Currently Learning: Next JS</h3>
 
 ###
 
